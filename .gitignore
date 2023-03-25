@@ -439,4 +439,6 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
+**/.idea
+
 # End of https://www.toptal.com/developers/gitignore/api/node,macos,git,webstorm+all,jetbrains+all,java,gradle,pycharm+all
