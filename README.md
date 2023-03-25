@@ -1,12 +1,12 @@
 # Today I Learned
 
 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeoYunnn%2FTIL&count_bg=%23FAE098&title_bg=%23C68300&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Version
 
-<p style="color:#ce6a28;font-style: italic; font-weight: bold">2023.03.25.SAT</p> 
+$\textcolor{#ce6a28}{\textsf{2023.03.25.SAT}}$
+
 
 * **춘식이** 있는 곳에서 일할 수 있는 그날까지 꾸준히 공부하고 기록하자
 
