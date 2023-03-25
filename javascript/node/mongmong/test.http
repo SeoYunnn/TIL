@@ -1,0 +1,15 @@
+### 생성
+POST localhost:13000/api/users
+Content-Type: application/json
+
+{
+  "username" : "yunnybuddy2",
+  "password" : "123",
+  "name" : "서윤"
+}
+
+###
+GET localhost:13000/api/users/yunnybuddy2
+Accept: application/json
+
+###

@@ -1,0 +1,57 @@
+###
+GET http://localhost:59588/api/greet
+Accept: application/json
+
+###
+GET http://localhost:59588/api/greet?name=hyeonsig
+Accept: application/json
+
+###
+POST http://localhost:13000/api/users
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "Geunwon Park",
+  "level": "Silver"
+}
+
+###
+POST http://localhost:13000/api/users
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": 2,
+  "name": "dongmin",
+  "level": "Silver"
+}
+
+###
+GET http://localhost:13000/api/users/1
+Accept: application/json
+
+###
+PATCH http://localhost:13000/api/users/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "Geunwon Park",
+  "level": "Gold"
+}
+
+###
+PATCH http://localhost:13000/api/users/2
+Content-Type: application/json
+
+{
+  "id": 2,
+  "name": "Dongmin Moon",
+  "level": "Diamond"
+}
+
+###
+DELETE http://localhost:13000/api/users/2
+Accept: application/json

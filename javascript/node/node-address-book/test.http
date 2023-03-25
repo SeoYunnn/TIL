@@ -1,0 +1,35 @@
+### 회원 생성
+POST localhost:8002/api/users
+Content-Type: application/json
+
+{
+  "userName" : "Seoyun2",
+  "address" : "Daejeon-si, Daedeok-gu, Songchon-dong",
+  "phoneNumber" : "010-0000-0000",
+  "email" : "Seoyun@wisoft.io"
+}
+
+### 회원 전체 조회
+GET localhost:8002/api/users
+Accept: application/json
+
+### 회원 수정
+PATCH localhost:8002/api/users/641ade4aa7a33cc9101540fa
+Content-Type: application/json
+
+{
+  "userName" : "juno",
+  "address" : "Daejeon-si, Useong-gu, hi"
+}
+
+### 회원 삭제
+DELETE localhost:8002/api/users/641add3ca7a33cc9101540f9
+Accept: application/json
+
+### 회원 검색 (이름)
+GET localhost:8002/api/users?address=Seoyun
+Accept: application/json
+
+### 회원 검색 (주소)
+GET localhost:8002/api/users?address=Daedeok-gu
+Accept: application/json
