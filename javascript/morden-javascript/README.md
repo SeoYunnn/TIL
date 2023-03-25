@@ -7,6 +7,12 @@
 
 ### 목차
 
+<style>
+.content-table thead {
+  background-color: #e9ecef;
+}
+</style>
+
 <div class="content-table">
 
 | Chapter    | Title                                                                                            |
@@ -62,11 +68,3 @@
 | Chapter 49 | Babel과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축                                                        |
 
 </div>
-
-<style>
-
-.content-table thead {
-  background-color: #e9ecef
-}
-
-</style>
