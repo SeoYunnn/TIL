@@ -6,9 +6,8 @@
 
 ## Version
 
+<p style="color:#ce6a28;font-style: italic; font-weight: bold">2023.03.25.SAT</p> 
 
-
-<p style="color:#ce6a28;font-style: italic; font-weight: bold">2023.03.25.SAT</p>  
 * **춘식이** 있는 곳에서 일할 수 있는 그날까지 꾸준히 공부하고 기록하자
 
 <img src="https://user-images.githubusercontent.com/120713987/227715054-a70e8b84-7d40-4a89-b9bc-9b9daef1e607.png" width="80%" alt="choonsik">
