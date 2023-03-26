@@ -442,3 +442,9 @@ gradle-app.setting
 **/.idea
 
 # End of https://www.toptal.com/developers/gitignore/api/node,macos,git,webstorm+all,jetbrains+all,java,gradle,pycharm+all
+
+javascript/node/express2
+javascript/node/mongmong
+javascript/node/src/codewithme
+javascript/node/src/express
+
