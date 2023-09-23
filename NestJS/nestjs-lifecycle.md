@@ -64,7 +64,7 @@
 | `beforeApplicationShutdown()` * | 모든 `onModuleDestroy()` 처리기가 완료된 후 호출 (Promise 해결 또는 거부) 완료되면 (Promise 가 해결되거나 거부됨) 모든 기존 연결이 닫힘 (`app.close()` 호출) |
 | `onApplicationShutdown()` * | 연결 종료 후 호출 (`app.close()` 해결) |
 
-👉🏻 `*` 로 표시한 후크의 경우 명시적으로 호출하지 않는다면, `**enableShutdownHooks()**` 를 호출해줘야 함
+👉🏻 `*` 로 표시한 후크의 경우 명시적으로 호출하지 않는다면, `enableShutdownHooks()` 를 호출해줘야 함
 
 👉🏻 모듈, 서비스, 컨트롤러와 같은 주요 구성 요소 위 **Lifecycle Hooks** 를 구현
     
@@ -79,11 +79,11 @@
 - 수명 주기 후크를 등록하려면 적절한 인터페이스 구현 진행
 
     ```tsx
-    import { Injectable, **OnModuleInit** } from '@nestjs/common';
+    import { Injectable, OnModuleInit } from '@nestjs/common';
     
     @Injectable()
-    export class UsersService implements **OnModuleInit** {
-      **onModuleInit()** {
+    export class UsersService implements OnModuleInit {
+      onModuleInit() {
         console.log(`The module has been initialized.`);
       }
     }
@@ -119,7 +119,7 @@
       const app = await NestFactory.create(AppModule);
     
       // shutdown hooks에 대한 리스닝. 이 후크를 무조건 먼저 활성화 해야함
-      **app.enableShutdownHooks();**
+      app.enableShutdownHooks();
     
     	await app.listen(3000);
     }
