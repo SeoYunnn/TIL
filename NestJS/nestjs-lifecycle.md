@@ -28,6 +28,7 @@
 | `onApplicationBootstrap` | - 어플리케이션 부팅될 때 호출 <br> - 주로 어플리케이션 시작 시 초기화 작업을 수행하는 데 사용     |
 | `onApplicationShutdown`  | - 어플리케이션 종료될 때 호출 <br> - 주로 어플리케이션 종료 시 정리 작업을 수행하는 데 사용      |
 
+<br>
 
 ## 💭 Lifecycle sequence
 
@@ -68,6 +69,8 @@
 👉🏻 모듈, 서비스, 컨트롤러와 같은 주요 구성 요소 위 **Lifecycle Hooks** 를 구현
     
 👉🏻 `app.close()` 를 명시적으로 호출하지 않는 경우 SIGTERM 과 같은 시스템 신호와 함께 작동 선택 필요
+
+<br>
 
 ## 💭 Usage
 ### 1) OnModuleInit
