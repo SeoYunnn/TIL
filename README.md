@@ -10,10 +10,12 @@
 
 ## Rule
 - 디렉토리와 파일명은 영어로 작성합니다
-- 마크다운 언어로 작성하며, 확장자는 `.md` 입니다
+- 마크다운 언어로 작성하며, 확장자는 `.md` 입니다 (코드 작성 예외)
 - 필요시에는 링크를 첨부합니다
 
 
 <br>
 
 ## Category
+### Database
+- [Database 기본 개념](https://github.com/SeoYunnn/TIL/blob/main/Database/database-basics.md)
