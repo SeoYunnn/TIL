@@ -1,5 +1,4 @@
 ## 💭 디렉토리 다루기
-
 ### 1. Unix File System
 
 **(1) File Types**
