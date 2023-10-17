@@ -19,12 +19,14 @@
 ## Category
 ### Database
 - [Database 기본 개념](https://github.com/SeoYunnn/TIL/blob/main/Database/database-basics.md)
+- [DBMS](https://github.com/SeoYunnn/TIL/blob/main/Database/DBMS.md)
 
 <br>
 
 ### NestJS
 - [NestJS Lifecycle (1)](https://github.com/SeoYunnn/TIL/blob/main/NestJS/nestjs-lifecycle.md)
 
+<br>
 
 ### Opensource-programming
 ⌨️ `오픈소스 프로그래밍` 과목은 대학교에서 수강중인 과목입니다
@@ -33,4 +35,5 @@
 ⌨️ 대표적 오픈소스 운영체제인 리눅스의 사용법과 파이썬을 활용한 프로그래밍을 학습합니다
 
 - [Unix & Linux](https://github.com/SeoYunnn/TIL/blob/main/Opensource-programming/Unix-Linux.md)
-- [Unix & Linux Command(1)](https://github.com/SeoYunnn/TIL/blob/main/Opensource-programming/Unix-Linux-Command-1.md)
+- [Unix & Linux Command (1)](https://github.com/SeoYunnn/TIL/blob/main/Opensource-programming/Unix-Linux-Command-1.md)
+- [Unix & Linux Command (2)]()
