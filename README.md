@@ -25,11 +25,12 @@
 
 ### NestJS
 - [NestJS Lifecycle (1)](https://github.com/SeoYunnn/TIL/blob/main/NestJS/nestjs-lifecycle.md)
+- [WebSocket (1)](https://github.com/SeoYunnn/TIL/blob/main/NestJS/WebSocket-1.md)
 
 <br>
 
 ### Opensource-programming
-⌨️ `오픈소스 프로그래밍` 과목은 대학교에서 수강중인 과목입니다
+⌨️ `오픈소스 프로그래밍` 과목은 대학교에서 수강한 과목입니다.
 <br>
 
 ⌨️ 대표적 오픈소스 운영체제인 리눅스의 사용법과 파이썬을 활용한 프로그래밍을 학습합니다
@@ -42,4 +43,6 @@
 
 ### Operating System
 - [운영체제 구조](https://github.com/SeoYunnn/TIL/blob/main/OperatingSystem/OS-Structures.md)
+- [메인 메모리](https://github.com/SeoYunnn/TIL/blob/main/OperatingSystem/OS-MainMemory.md)
+- [CPU 스케줄링](https://github.com/SeoYunnn/TIL/blob/main/OperatingSystem/OS-CPU-Scheduling.md)
 
