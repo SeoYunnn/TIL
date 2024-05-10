@@ -1,6 +1,7 @@
 # 프로젝트를 위한 WebSocket 학습
 - 해당 파일은, NestJS로 채팅방 구현 프로젝트를 위한 WebSocket 학습 내용 정리 공간입니다
 
+<br>
 
 ## 💭 WebSocket 이란 ?
 📢 WebSocket : 웹 소켓 프로토콜은 HTTP 와는 다른 통신 프로토콜로, 웹 서버와 웹 브라우저가 실시간 메세지를 교환하는 데에 사용됨
