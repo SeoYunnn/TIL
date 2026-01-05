@@ -49,7 +49,7 @@
 <br>
 
 ### Programmers-devcourse
-⌨️ [Programmers] 9기 웹 풀스택 데스코스
+⌨️ [Programmers] 9기 웹 풀스택 데브코스 수강
 <br>
 ⌨️ 기간 : 2025.12.29 ~ 2026.06.19
 
