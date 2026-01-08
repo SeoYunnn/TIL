@@ -17,19 +17,19 @@
 <br>
 
 ## Category
-### Database
+### 🍀 Database
 - [Database 기본 개념](https://github.com/SeoYunnn/TIL/blob/main/Database/database-basics.md)
 - [DBMS](https://github.com/SeoYunnn/TIL/blob/main/Database/DBMS.md)
 
 <br>
 
-### NestJS
+### 🍀 NestJS
 - [NestJS Lifecycle (1)](https://github.com/SeoYunnn/TIL/blob/main/NestJS/nestjs-lifecycle.md)
 - [WebSocket (1)](https://github.com/SeoYunnn/TIL/blob/main/NestJS/WebSocket-1.md)
 
 <br>
 
-### Opensource-programming
+### 🍀 Opensource-programming
 ⌨️ `오픈소스 프로그래밍` 과목은 대학교에서 수강한 과목입니다.
 <br>
 
@@ -41,16 +41,22 @@
 
 <br>
 
-### Operating System
+### 🍀 Operating System
 - [운영체제 구조](https://github.com/SeoYunnn/TIL/blob/main/OperatingSystem/OS-Structures.md)
 - [메인 메모리](https://github.com/SeoYunnn/TIL/blob/main/OperatingSystem/OS-MainMemory.md)
 - [CPU 스케줄링](https://github.com/SeoYunnn/TIL/blob/main/OperatingSystem/OS-CPU-Scheduling.md)
 
 <br>
 
-### Programmers-devcourse
-⌨️ [Programmers] 9기 웹 풀스택 데브코스 수강
+### 🍀 Programmers-devcourse
+⌨️ [Programmers] 9기 웹 풀스택 데브코스 수강 중 배우는 내용을 기록하고 복습하기 위해 작성되었습니다.
 <br>
 ⌨️ 기간 : 2025.12.29 ~ 2026.06.19
 
-- [25.12.30](https://github.com/SeoYunnn/TIL/blob/main/Programmers-devcourse/25.12.30.md)
+<details>
+<summary><b>Week 1</b></summary>
+
+- [25.12.30](https://github.com/SeoYunnn/TIL/blob/main/Programmers-devcourse/week1/25.12.30.md)
+
+- [25.01.08](https://github.com/SeoYunnn/TIL/blob/main/Programmers-devcourse/week1/26.01.08.md)
+</details>
